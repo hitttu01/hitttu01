@@ -116,14 +116,13 @@ Configured a robust network IDS using Snort to analyze traffic patterns and aler
 </tr>
 </table>
 
+
 ### 📈 Contribution Graph & Trophies
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hitttu01&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="100%"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=hitttu01&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" />
-
 <div align="center">
-<br/>
-Made with ❤️ by Hitesh Yadav<br/>
-<i>"Code Securely. Learn Continuously. Build Fearlessly."</i>
+  <a href="https://github.com/hitttu01">
+    <img src="https://ghchart.rshah.org/38BDF8/hitttu01" alt="Hitesh's Contribution Graph" width="80%"/>
+  </a>
+  <br/><br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=hitttu01&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" />
 </div>

@@ -96,13 +96,13 @@ Tools
 <table>
 <tr>
 <td width="34%">
-<img src="https://github-readme-stats.vercel.app/api?username=hittubhai01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img src="https://github-readme-stats.vercel.app/api?username=hitttu01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </td>
 <td width="30%" align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hittubhai01&theme=tokyonight&hide_border=true&background=0D1117" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hitttu01&theme=tokyonight&hide_border=true&background=0D1117" />
 </td>
 <td width="36%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hittubhai01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hitttu01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </td>
 </tr>
 </table>
@@ -138,10 +138,10 @@ Python Appium GitHub Actions
 </table>
 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hittubhai01&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hitttu01&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="100%"/>
 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=hittubhai01&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" />
+<img src="https://github-profile-trophy.vercel.app/?username=hitttu01&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" />
 
 <div align="center">
 Made with ❤️ by Hitesh Yadav
